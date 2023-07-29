@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Calculator</string>
+    <string name="simple_calculator">Simple Calculator</string>
+    <string name="enter_a_number">Enter a number</string>
+    <string name="enter_a_number1">Enter a number</string>
+    <string name="addition">Addition</string>
+    <string name="subtraction">Subtraction</string>
+    <string name="multiplication">Multiplication</string>
+    <string name="division">Division</string>
+</resources>
